@@ -261,27 +261,6 @@ export const DATA = {
       image: "/taskchart.png",
     },
     {
-      title: "Kilat Laundry",
-      href: "",
-      dates: "2026 - Now",
-      active: true,
-      description:
-        "Modern laundry service solution that prioritizes speed, quality, and customer satisfaction.",
-      technologies: [
-        "HTML5",
-        "CSS3",
-        "Javascript",
-      ],
-      links: [
-        {
-          type: "Website Landing Page",
-          href: "https://kilat-laundry.vercel.app",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/kilat laundry.png",
-    },
-    {
       title: "Puzzle Cam",
       href: "",
       dates: "2026 - Now",
@@ -302,27 +281,7 @@ export const DATA = {
       ],
       image: "/puzzlecam.png",
     },
-    {
-      title: "Sanchaka Adventure",
-      href: "",
-      dates: "2026 - Now",
-      active: true,
-      description:
-        "Outdoor adventure tourism service platform.",
-      technologies: [
-        "HTML5",
-        "CSS3",
-        "Javascript",
-      ],
-      links: [
-        {
-          type: "Website Company Profile",
-          href: "https://sanchaka-adventure.vercel.app",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/sanchaka adventure.png",
-    },
+
   ],
   hackathons: [
     {
