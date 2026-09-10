@@ -148,7 +148,7 @@ export const DATA = {
       ],
       links: [
         {
-          type: "Website",
+          type: "Website Company Profile",
           href: "https://www.vrisestudio.com",
           icon: <Icons.globe className="size-3" />,
         },
@@ -198,33 +198,12 @@ export const DATA = {
       image: "/network test.png",
     },
     {
-      title: "RSU Gramedika 10",
-      href: "",
-      dates: "2026 - Now",
-      active: true,
-      description:
-        "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
-      technologies: [
-        "HTML5",
-        "CSS3",
-        "javascript",
-      ],
-      links: [
-        {
-          type: "Website Company Profile",
-          href: "https://www.rsugramedika10.com",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/rsu gramedika 10.png",
-    },
-    {
       title: "Apotek Sukoharjo",
       href: "",
       dates: "2026 - Now",
       active: true,
       description:
-        "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
+        "Sukoharjo Pharmacy website provides information on quality medicines, pharmacist consultations, and various other services.",
       technologies: [
         "HTML5",
         "CSS3",
@@ -240,12 +219,54 @@ export const DATA = {
       image: "/apotek sukoharjo.png",
     },
     {
+      title: "RSU Gramedika 10",
+      href: "",
+      dates: "2026 - Now",
+      active: true,
+      description:
+        "RSU Gramedika 10 website makes it easy for the public to obtain information about health services, doctor's practice schedules, hospital facilities and health education.",
+      technologies: [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+      ],
+      links: [
+        {
+          type: "Website Company Profile",
+          href: "https://www.rsugramedika10.com",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/rsu gramedika 10.png",
+    },
+    {
+      title: "Task Chart",
+      href: "",
+      dates: "2026 - Now",
+      active: true,
+      description:
+        "Platform for managing tasks, monitoring progress, and organizing work in a more structured way.",
+      technologies: [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+      ],
+      links: [
+        {
+          type: "Website Application",
+          href: "https://taskchart.vercel.app",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/taskchart.png",
+    },
+    {
       title: "Kilat Laundry",
       href: "",
       dates: "2026 - Now",
       active: true,
       description:
-        "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
+        "Modern laundry service solution that prioritizes speed, quality, and customer satisfaction.",
       technologies: [
         "HTML5",
         "CSS3",
@@ -254,31 +275,11 @@ export const DATA = {
       links: [
         {
           type: "Website Landing Page",
-          href: "https://www.hiresai.id",
+          href: "https://kilat-laundry.vercel.app",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/hiresai.png",
-    },
-    {
-      title: "Hiresai",
-      href: "",
-      dates: "2025 - Now",
-      active: true,
-      description:
-        "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
-      technologies: [
-        "Next.js",
-        "Typescript",
-      ],
-      links: [
-        {
-          type: "Website Application",
-          href: "https://www.hiresai.id",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "/hiresai.png",
+      image: "/kilat laundry.png",
     },
     {
       title: "Hiresai",
