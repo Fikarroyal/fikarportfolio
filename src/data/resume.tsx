@@ -282,24 +282,46 @@ export const DATA = {
       image: "/kilat laundry.png",
     },
     {
-      title: "Hiresai",
+      title: "Puzzle Cam",
       href: "",
-      dates: "2025 - Now",
+      dates: "2026 - Now",
       active: true,
       description:
-        "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
+        "Interactive webcam that combines a camera with puzzle games to provide an engaging and fun visual experience.",
       technologies: [
-        "Next.js",
-        "Typescript",
+        "HTML5",
+        "CSS3",
+        "Javascript",
       ],
       links: [
         {
           type: "Website Application",
-          href: "https://www.hiresai.id",
+          href: "https://puzzlecam-test.vercel.app",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/hiresai.png",
+      image: "/puzzlecam.png",
+    },
+    {
+      title: "Sanchaka Adventure",
+      href: "",
+      dates: "2026 - Now",
+      active: true,
+      description:
+        "Outdoor adventure tourism service platform.",
+      technologies: [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+      ],
+      links: [
+        {
+          type: "Website Company Profile",
+          href: "https://sanchaka-adventure.vercel.app",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/sanchaka adventure.png",
     },
   ],
   hackathons: [
