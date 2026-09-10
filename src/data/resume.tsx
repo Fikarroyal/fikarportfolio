@@ -13,8 +13,8 @@ export const DATA = {
     "I am a Bachelor of Information Systems from Amikom University Yogyakarta with experience in information system technology development, software engineering, and the digital creative industry. I am interested in Artificial Intelligence, Web Development, Techinal Support and Mobile Application Development with analytical skills, problem solving, and technology-based project management. In addition to being active in system and application development, I also have competencies in visual design, video editing, and digital creative production to support the needs of modern media and digital branding. I am accustomed to working collaboratively, disciplined in achieving targets, and have good adaptability in a dynamic and professional work environment.",
   avatarUrl: "/me.jpeg",
   skills: [
-    "HTML",
-    "CSS",
+    "HTML5",
+    "CSS3",
     "Typescript",
     "Javascript",
     "Bootstrap5",
