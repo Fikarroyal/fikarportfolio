@@ -164,7 +164,7 @@ export const DATA = {
         "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
       technologies: [
         "HTML5",
-        "CSS3"
+        "CSS3",
         "Javascript",
       ],
       links: [
@@ -185,7 +185,7 @@ export const DATA = {
         "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
       technologies: [
         "HTML5",
-        "CSS3"
+        "CSS3",
         "Javascript",
       ],
       links: [
