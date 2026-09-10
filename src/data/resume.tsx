@@ -156,35 +156,37 @@ export const DATA = {
       image: "/vrise studio.png",
     },
     {
-      title: "Hiresai",
+      title: "Alora AI",
       href: "",
-      dates: "2025 - Now",
+      dates: "2026 - Now",
       active: true,
       description:
         "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
       technologies: [
-        "Next.js",
-        "Typescript",
+        "HTML5",
+        "CSS3"
+        "Javascript",
       ],
       links: [
         {
-          type: "Website Application",
-          href: "https://www.hiresai.id",
+          type: "Website Landing Page",
+          href: "https://aialora.vercel.app",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/hiresai.png",
+      image: "/alora ai.jpg",
     },
     {
-      title: "Hiresai",
+      title: "Network Test",
       href: "",
-      dates: "2025 - Now",
+      dates: "2026 - Now",
       active: true,
       description:
         "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
       technologies: [
-        "Next.js",
-        "Typescript",
+        "HTML5",
+        "CSS3"
+        "Javascript",
       ],
       links: [
         {
@@ -193,7 +195,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/hiresai.png",
+      image: "/network test.png",
     },
     {
       title: "Hiresai",
