@@ -8,7 +8,7 @@ export const DATA = {
   location: "Yogyakarta, Indonesia",
   locationLink: "https://www.google.com/maps/place/yogyakarta",
   description:
-    "I am a AI Engineer & Developer",
+    "I am a AI Engineer & Web Developer",
   summary:
     "I am a Bachelor of Information Systems from Amikom University Yogyakarta with experience in information system technology development, software engineering, and the digital creative industry. I am interested in Artificial Intelligence, Web Development, Techinal Support and Mobile Application Development with analytical skills, problem solving, and technology-based project management. In addition to being active in system and application development, I also have competencies in visual design, video editing, and digital creative production to support the needs of modern media and digital branding. I am accustomed to working collaboratively, disciplined in achieving targets, and have good adaptability in a dynamic and professional work environment.",
   avatarUrl: "/me.jpeg",
@@ -154,6 +154,146 @@ export const DATA = {
         },
       ],
       image: "/vrise studio.png",
+    },
+    {
+      title: "Hiresai",
+      href: "",
+      dates: "2025 - Now",
+      active: true,
+      description:
+        "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+      ],
+      links: [
+        {
+          type: "Website Application",
+          href: "https://www.hiresai.id",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/hiresai.png",
+    },
+    {
+      title: "Hiresai",
+      href: "",
+      dates: "2025 - Now",
+      active: true,
+      description:
+        "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+      ],
+      links: [
+        {
+          type: "Website Application",
+          href: "https://www.hiresai.id",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/hiresai.png",
+    },
+    {
+      title: "Hiresai",
+      href: "",
+      dates: "2025 - Now",
+      active: true,
+      description:
+        "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+      ],
+      links: [
+        {
+          type: "Website Application",
+          href: "https://www.hiresai.id",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/hiresai.png",
+    },
+    {
+      title: "Hiresai",
+      href: "",
+      dates: "2025 - Now",
+      active: true,
+      description:
+        "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+      ],
+      links: [
+        {
+          type: "Website Application",
+          href: "https://www.hiresai.id",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/hiresai.png",
+    },
+    {
+      title: "Hiresai",
+      href: "",
+      dates: "2025 - Now",
+      active: true,
+      description:
+        "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+      ],
+      links: [
+        {
+          type: "Website Application",
+          href: "https://www.hiresai.id",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/hiresai.png",
+    },
+    {
+      title: "Hiresai",
+      href: "",
+      dates: "2025 - Now",
+      active: true,
+      description:
+        "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+      ],
+      links: [
+        {
+          type: "Website Application",
+          href: "https://www.hiresai.id",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/hiresai.png",
+    },
+    {
+      title: "Hiresai",
+      href: "",
+      dates: "2025 - Now",
+      active: true,
+      description:
+        "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+      ],
+      links: [
+        {
+          type: "Website Application",
+          href: "https://www.hiresai.id",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/hiresai.png",
     },
   ],
   hackathons: [
