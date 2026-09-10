@@ -161,7 +161,7 @@ export const DATA = {
       dates: "2026 - Now",
       active: true,
       description:
-        "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
+        "A workspace that thinks alongside you. A place to write, research, and get work done, supported by AI that understands your team's context.",
       technologies: [
         "HTML5",
         "CSS3",
@@ -182,7 +182,7 @@ export const DATA = {
       dates: "2026 - Now",
       active: true,
       description:
-        "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
+        "Get to Know Network Performance In Real Time. Test internet speed, monitor connection quality, and get accurate information about your network.",
       technologies: [
         "HTML5",
         "CSS3",
@@ -191,66 +191,69 @@ export const DATA = {
       links: [
         {
           type: "Website Application",
-          href: "https://www.hiresai.id",
+          href: "https://networktest-indo.vercel.app",
           icon: <Icons.globe className="size-3" />,
         },
       ],
       image: "/network test.png",
     },
     {
-      title: "Hiresai",
+      title: "RSU Gramedika 10",
       href: "",
-      dates: "2025 - Now",
+      dates: "2026 - Now",
       active: true,
       description:
         "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
       technologies: [
-        "Next.js",
-        "Typescript",
+        "HTML5",
+        "CSS3",
+        "javascript",
       ],
       links: [
         {
-          type: "Website Application",
-          href: "https://www.hiresai.id",
+          type: "Website Company Profile",
+          href: "https://www.rsugramedika10.com",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/hiresai.png",
+      image: "/rsu gramedika 10.png",
     },
     {
-      title: "Hiresai",
+      title: "Apotek Sukoharjo",
       href: "",
-      dates: "2025 - Now",
+      dates: "2026 - Now",
       active: true,
       description:
         "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
       technologies: [
-        "Next.js",
-        "Typescript",
+        "HTML5",
+        "CSS3",
+        "Javascript",
       ],
       links: [
         {
-          type: "Website Application",
-          href: "https://www.hiresai.id",
+          type: "Website Company Profile",
+          href: "https://www.apoteksukoharjo.com",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/hiresai.png",
+      image: "/apotek sukoharjo.png",
     },
     {
-      title: "Hiresai",
+      title: "Kilat Laundry",
       href: "",
-      dates: "2025 - Now",
+      dates: "2026 - Now",
       active: true,
       description:
         "Artificial Intelligence based recruitment platform designed to help companies carry out the employee selection process more quickly, efficiently and accurately.",
       technologies: [
-        "Next.js",
-        "Typescript",
+        "HTML5",
+        "CSS3",
+        "Javascript",
       ],
       links: [
         {
-          type: "Website Application",
+          type: "Website Landing Page",
           href: "https://www.hiresai.id",
           icon: <Icons.globe className="size-3" />,
         },
